@@ -8,12 +8,12 @@
 
 | Компетенция | Формат | Уровень | Действителен до | Сертификат |
 |---|---|---|---|---|
-| SQL | Теория и практика | Продвинутый | 17.09.2027 | [PDF](nsok/NSOK_SQL_advanced_2026-09.pdf) |
-| Python | Теория и практика | Продвинутый | 17.09.2027 | [PDF](nsok/NSOK_Python_advanced_2026-09.pdf) |
-| API | Теория | Продвинутый | 17.09.2027 | [PDF](nsok/NSOK_API_advanced_2026-09.pdf) |
-| Git | Теория | Продвинутый | 17.09.2027 | [PDF](nsok/NSOK_Git_advanced_2026-09.pdf) |
-| Функциональное тестирование | Теория | Продвинутый | 18.09.2027 | [PDF](nsok/NSOK_Functional_Testing_advanced_2026-09.pdf) |
-| Математическая статистика | Теория | Продвинутый | 18.09.2027 | [PDF](nsok/NSOK_Math_Statistics_advanced_2026-09.pdf) |
+| SQL | Теория и практика | Продвинутый | 17.09.2027 | [PDF](NSOK_SQL_advanced_2026-09.pdf) |
+| Python | Теория и практика | Продвинутый | 17.09.2027 | [PDF](NSOK_Python_advanced_2026-09.pdf) |
+| API | Теория | Продвинутый | 17.09.2027 | [PDF](NSOK_API_advanced_2026-09.pdf) |
+| Git | Теория | Продвинутый | 17.09.2027 | [PDF](NSOK_Git_advanced_2026-09.pdf) |
+| Функциональное тестирование | Теория | Продвинутый | 18.09.2027 | [PDF](NSOK_Functional_Testing_advanced_2026-09.pdf) |
+| Математическая статистика | Теория | Продвинутый | 18.09.2027 | [PDF](NSOK_Math_Statistics_advanced_2026-09.pdf) |
 
 Как это применяется в работе аналитика: SQL и Python — выгрузки обращений и задач, проверка знаменателей перед расчётом метрик; API — чтение контрактов поставщиков данных и проверка ответов в Postman; Git — merge request для документации в GitLab; функциональное тестирование — критерии приёмки и UAT-сценарии; математическая статистика — медианы, подвыборки и границы выводов по метрикам до/после.
 
@@ -21,13 +21,13 @@
 
 | Программа | Организация | Дата | Статус | Сертификат |
 |---|---|---|---|---|
-| Продакт-менеджмент — курс, итоговый тест 38 из 46 | VK Education | 2025 | бессрочный | [PDF](courses/VK_Education_Product_Management_2025.pdf) |
+| Продакт-менеджмент — курс, итоговый тест 38 из 46 | VK Education | 2025 | бессрочный | [PDF](VK_Education_Product_Management_2025.pdf) |
 | Project Management | ProductStar | 2024 | бессрочный | — |
-| Google Analytics Certification (GA4) | Google Skillshop | 22.08.2024 | истёк 22.08.2025 | [PDF](courses/Google_Analytics_Certification_2024.pdf) |
-| Get started using Google Analytics | Google Skillshop | 22.08.2024 | курс пройден | [PDF](courses/Google_GA4_1_Get_Started_2024.pdf) |
-| Manage GA4 Data and Learn to Read Reports | Google Skillshop | 22.08.2024 | курс пройден | [PDF](courses/Google_GA4_2_Manage_Data_Read_Reports_2024.pdf) |
-| Dive Deeper into GA4 Data and Reports | Google Skillshop | 22.08.2024 | курс пройден | [PDF](courses/Google_GA4_3_Dive_Deeper_2024.pdf) |
-| Специалист по Яндекс Метрике, № 274359 | Яндекс | 2024 | истёк 30.09.2025 | [PDF](courses/Yandex_Metrica_Specialist_274359.pdf) |
+| Google Analytics Certification (GA4) | Google Skillshop | 22.08.2024 | истёк 22.08.2025 | [PDF](Google_Analytics_Certification_2024.pdf) |
+| Get started using Google Analytics | Google Skillshop | 22.08.2024 | курс пройден | [PDF](Google_GA4_1_Get_Started_2024.pdf) |
+| Manage GA4 Data and Learn to Read Reports | Google Skillshop | 22.08.2024 | курс пройден | [PDF](Google_GA4_2_Manage_Data_Read_Reports_2024.pdf) |
+| Dive Deeper into GA4 Data and Reports | Google Skillshop | 22.08.2024 | курс пройден | [PDF](Google_GA4_3_Dive_Deeper_2024.pdf) |
+| Специалист по Яндекс Метрике, № 274359 | Яндекс | 2024 | истёк 30.09.2025 | [PDF](Yandex_Metrica_Specialist_274359.pdf) |
 | Бизнес-аналитик (открытый курс) | Яндекс Практикум | 2026 | в процессе | — |
 
 Сертификаты Google и Яндекса имеют годовой срок действия и на сегодня истекли — оставлены как подтверждение пройденного обучения по веб-аналитике, не как действующая аттестация.
